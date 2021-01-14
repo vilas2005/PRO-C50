@@ -1,0 +1,28 @@
+h1{
+    color:rgb(217, 0, 255, 255)
+}
+*{
+    border: solid
+}
+
+.Designs{
+    background-color:black;
+    display: flex;
+    font-style: italic;
+    font-size:xx-large;
+}
+
+.Chemeleon{
+    background-color:green;
+  display: flex;
+  flex-flow: column;
+  font-size: xx-large;
+}
+
+.Pigeon{
+background-color:red;
+  display: flex;
+  flex-flow: column;
+  font-size: xx-large;
+
+}
